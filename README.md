@@ -1,0 +1,2 @@
+# startgit
+just learn
